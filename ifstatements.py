@@ -1,0 +1,9 @@
+# if(4>3):
+#     print("true")
+
+age = 12
+
+if(age>=18):
+    print("You can vote.")
+else:
+    print("You can't vote.")
